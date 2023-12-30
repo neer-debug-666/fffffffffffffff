@@ -7,7 +7,7 @@
     "PartyPlayersOnline": 3,
     "PartyTier": 1,
     "PartyTitle": "12 Gauge Shotgun"
-  }
+  },
   {
     "PartyId": 987654321,
     "PartyMaxPlayers": 5,
