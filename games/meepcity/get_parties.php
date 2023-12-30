@@ -25,5 +25,5 @@
     "PartyPlayersOnline": 3,
     "PartyTier": 3,
     "PartyTitle": "test3"
-  },
+  }
 ]
